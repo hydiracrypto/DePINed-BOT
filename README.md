@@ -1,4 +1,4 @@
-# DePINed BOT
+# DePINed BOT TERMUX
 DePINed BOT
 
 - Register Here : [DePINed](https://app.depined.org/onboarding)
