@@ -1,4 +1,5 @@
-pkg update && pkg upgrade 
+update
+upgrade 
 python -y
 curl-cffi
 fake-useragent
