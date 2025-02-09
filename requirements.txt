@@ -1,3 +1,5 @@
+pkg update && pkg upgrade 
+python -y
 curl-cffi
 fake-useragent
 colorama
